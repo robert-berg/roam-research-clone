@@ -23,7 +23,7 @@ Graph overview
 
 ![](/static/screenshot2.png)
 
-Quick search
+Search
 
 ![](/static/screenshot3.png)
 
