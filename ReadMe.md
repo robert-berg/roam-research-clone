@@ -6,7 +6,11 @@
 
 ## Screenshots
 
+Document editor
 
+Graph overview
+
+Quick search
 
 ## Getting started
 
