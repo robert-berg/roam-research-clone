@@ -17,6 +17,9 @@ target="_blank" >
 
 Document editor
 
+![](/static/screenshot1.png)
+
+
 Graph overview
 
 Quick search
