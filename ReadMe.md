@@ -4,7 +4,7 @@
 
 <p>This tool is useful for organizing academic literature because it makes it easy to draw connections between different works. It’s basically an alternative method for visualizing a literature review, except it makes it much easier to specifically justify the connections between different works.</p>
 
-## Screen shots
+## Screenshots
 
 
 
