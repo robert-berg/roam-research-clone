@@ -19,10 +19,13 @@ Document editor
 
 ![](/static/screenshot1.png)
 
-
 Graph overview
 
+![](/static/screenshot2.png)
+
 Quick search
+
+![](/static/screenshot3.png)
 
 ## Getting started
 
