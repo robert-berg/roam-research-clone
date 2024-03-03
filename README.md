@@ -7,11 +7,7 @@ target="_blank">Roam Research</a>. </p>
 
 ## Demo
 
-<a href="https://roam-research-clone.netlify.app/" 
-target="_blank" >
-    <button>Live demo</button>
-</a>
-
+### [➡️ Live Demo](https://roam-research-clone.netlify.app/)
 
 ## Screenshots
 
